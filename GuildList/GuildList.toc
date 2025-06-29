@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: GuildList
+## Notes: Gives you a list of guildmembers that are offline for more than 2 months
+## Author: Knomkrad
+## Version: 1.0
+
+GuildList.lua
